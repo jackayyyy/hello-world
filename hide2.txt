@@ -1,0 +1,2 @@
+config1: a
+config2: b
